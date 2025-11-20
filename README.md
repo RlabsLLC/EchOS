@@ -62,6 +62,6 @@ EchOS 1
 ✦ EchOS DevAlpha ($Varies, In-House)
 
 
-✦ RingOS Full (Linux-Based) (Free) (Coming in EchOS o2.5)
+✦ RingOS Full (Linux-Based) (Free) (Coming in EchOS o0.2)
 
 Other Premium Builds Coming Soon.
