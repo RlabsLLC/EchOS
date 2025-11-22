@@ -22,15 +22,13 @@ Window UI
 UI: CoreV2.8o
 Programing: Echo Inc,
 Released by RoboLabs LLC & @redford_p
-===========================================
 
 RoboLabs LLC Website: https://robolabs.w3spaces.com
 
-===========================================
+
+# Builds:
 
 Future Premium Builds will be released on the RoboLabs Website.
-
-Builds:
 
 ✦ EchOS Home (Free)
 
