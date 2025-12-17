@@ -1,5 +1,5 @@
 # EchOS 0.3 Preview (Coming Soon!)
-EchOS software update/install page for computers compatible with EchOS. Download the installer to continue with proper setup. (Only works on Linux x64 for now; ARM64 support coming in EchOS+ Full 0.4 Linux build.)
+EchOS software update/install page for computers compatible with EchOS. Download the installer to continue with proper setup. (Only works on Linux x64 for now; ARM64 support coming in EchOS 0.4 Linux build.)
 
 # Bugs found
 
@@ -13,9 +13,7 @@ Desktop UI (in development)
 
 Window UI (Already Integrated... but hidden)
 
-# Alpha Requesting Avaiable!!
-
-Contact me at robolabsllc@gmail.com for BETA Accsess. 
+Contact me at robolabsllc@gmail.com for Test Builds. 
 
 Required:
  * Turbowarp Knowledge.
@@ -41,38 +39,5 @@ RoboLabs LLC Website: https://robolabs.w3spaces.com (NOT TOO MANY REQUESTS!! ALR
 
 # Builds:
 
-Future Premium Builds will be released on the RoboLabs Website.
+✦ EchOS Beta
 
-✦ EchOS Home (Free)
-
-✦ EchOS Home+ (Free) (may include fees)
-
-EchOS 4
-
-✦ EchOS Home Platinum (~$1.99)
-
-✦ EchOS Pro Lite (~$2.99)
-
-
-EchOS 2.2
-
-✦ EchOS Pro (~$4.99)
-
-✦ EchOS Pro U (~$9.99)
-
-EchOS x1.1
-
-✦ EchOS U (~$11.99)
-
-EchOS 1
-
-✦ EchOS Dev (Free, In-House)
-
-✦ EchOS DevBeta ($Varies)
-
-✦ EchOS DevAlpha ($Varies, In-House)
-
-
-✦ RingOS Full (Linux-Based) (Free) (Coming in EchOS o0.2)
-
-Other Premium Builds Coming Soon.
