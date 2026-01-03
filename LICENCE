@@ -1,0 +1,90 @@
+EchOS Source‑Available License (ESAL) v1.2
+Copyright © 2026 RoboLabs LLC & Echo Inc.
+All Rights Reserved.
+
+1. Definitions
+“Software” refers to the EchOS operating system project, including all code, logic, assets, scripts, packaged builds, unpackaged builds, and documentation.
+“Copyright Holders” refers to RoboLabs LLC and Echo Inc.
+“Developer” refers to any individual granted explicit written permission by the Copyright Holders to modify the Software.
+“User” refers to any individual using the Software without developer permissions.
+“Redistribution” refers to sharing, uploading, publishing, distributing, or making the Software available in any form.
+
+2. Grant of Rights
+2.1 Personal and Commercial Use
+Users are permitted to:
+• Use the Software for personal purposes.
+• Use the Software for commercial purposes.
+• View and study the source code.
+No fees or royalties are required for these uses.
+
+2.2 Developer Modification Rights
+Modification of the Software is only permitted for Developers who have received explicit written authorization from the Copyright Holders.
+Authorized Developers may:
+• Modify the Software.
+• Create derivative works.
+• Use modified versions privately.
+Developers may not redistribute modified versions unless separately authorized.
+
+3. Restrictions
+3.1 Unauthorized Modification Prohibited
+Users who are not authorized Developers may not:
+• Modify the Software.
+• Alter or remove copyright notices.
+• Bypass, disable, or interfere with anti‑tamper or integrity systems.
+• Reverse‑engineer, unpack, or decompile the Software beyond what is permitted by law.
+
+3.2 Redistribution Restrictions
+Users may not redistribute:
+• The Software in any form.
+• Modified or unmodified copies.
+• Packaged or unpackaged versions.
+• Derivative works.
+Redistribution requires explicit written permission from RoboLabs LLC or Echo Inc.
+
+Redistributed versions, when permission is granted, must be provided at no cost.
+No redistributed version may be sold, monetized, or offered behind a paywall.
+
+3.3 No Misrepresentation
+Users may not:
+• Claim authorship of the Software.
+• Present modified versions as official.
+• Use the names RoboLabs LLC, Echo Inc., or EchOS for endorsement without permission.
+
+4. Ownership
+The Software is the exclusive property of RoboLabs LLC and Echo Inc.
+All rights not expressly granted in this license are reserved.
+
+5. Integrity and Anti‑Tamper
+The Software may include:
+• Anti‑tamper systems.
+• Self‑protection mechanisms.
+• Integrity checks.
+• Behavior changes when unauthorized modification or unpacking is detected.
+Users may not interfere with these systems.
+
+6. Termination
+This license is automatically terminated if:
+• The User violates any restriction.
+• The User redistributes the Software without permission.
+• The User modifies the Software without authorization.
+Upon termination, the User must immediately cease all use of the Software.
+The Copyright Holders may revoke permissions at any time.
+
+7. Liability
+The Software is provided “as is,” without warranty of any kind.
+RoboLabs LLC and Echo Inc. are not liable for:
+• Damages.
+• Data loss.
+• Malfunctions.
+• Any consequences of using or misusing the Software.
+
+8. Permission Requests
+Users or developers seeking:
+• Redistribution rights.
+• Modification rights.
+• Commercial licensing.
+• Collaboration opportunities.
+must contact RoboLabs LLC or Echo Inc. directly.
+
+9. Acceptance
+By using, running, viewing, or accessing the Software, the User agrees to all terms of this license.
