@@ -1,13 +1,16 @@
 # EchOS Project 0.3.5_beta
 "If Google can make ChromeOS with HTML, so can I."
 
-EchOS is a lightweight experimental operating system focused on simplicity, modularity, and creative design. This repository contains the active beta branch, where new features are introduced and tested before stabilizing into future releases.
+EchOS is a lightweight experimental operating system focused on simplicity, modularity, and creative design.  
+This repository now includes the 0.3.5_beta build.
 
 ---
 
-## Current Status: 0.3.5_beta
-A minor bug has been identified, and the release has been temporarily postponed.  
-Work is underway to resolve the issue and continue progress toward the next stable milestone.
+## Current Status: 0.3.5_beta (Available)
+EchOS 0.3.5 has been uploaded to the repository.  
+This version includes internal improvements and preparation for future releases.
+
+A minor bug was previously identified, but the current build is now available for testing and feedback.
 
 ---
 
@@ -21,10 +24,7 @@ Work is underway to resolve the issue and continue progress toward the next stab
 
 ## Upcoming Versions
 - **0.3.6** – Bug fixes and minor improvements  
-- **0.3.7** – Final beta before stabilization
-
-...
-
+- **0.3.7** – Final beta before stabilization  
 - **0.4.0** – Stable beta milestone  
 - **EchOS 0.1 Free** – Open-source community edition  
 - **EchOS Dev0.4** – Developer/testing branch  
