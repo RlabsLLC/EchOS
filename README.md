@@ -23,7 +23,8 @@ A minor bug was previously identified, but the current build is now available fo
 ---
 
 ## Upcoming Versions
-- **0.3.6** – Bug fixes and minor improvements  
+- **0.3.6** – Bug fixes and minor improvements
+- **CoreLTS 1** - UNIX-like Kernel
 - **0.3.7** – Final beta before stabilization  
 - **0.4.0** – Stable beta milestone  
 - **EchOS 0.1 Free** – Open-source community edition  
