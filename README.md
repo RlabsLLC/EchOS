@@ -31,9 +31,9 @@ EchOS 0.3.6_beta includes major improvments, and window efficientcy. Features ar
 6. <!ECHOS html> tag - Opens windows without requesting. Perfect for pop-up windows and startup apps.
 
 ### Changes
-WebV2.8x Update to run the new features (WebV2.8x0.3)
-Additional changes to the SB3_UNIX kernel
-Other changes
+- WebV2.8x Update to run the new features (WebV2.8x0.3)
+- Additional changes to the SB3_UNIX kernel
+- Other changes
 
 ---
 
