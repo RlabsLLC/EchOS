@@ -21,7 +21,7 @@ This version includes major improvements and preparation for future releases.
 
 ---
 
-##EchOS 0.3.6_beta in preparations!
+## EchOS 0.3.6_beta in preparations!
 EchOS 0.3.6_beta includes major improvments, and window efficientcy. Features are:
 1. QuickActions (Beta) - A way to tell your computer to make a folder/file, close a window, and more!
 2. Simplify - Desktop clutterd? tap the Simplify button to arrange your windows in a breathable way.
@@ -30,7 +30,7 @@ EchOS 0.3.6_beta includes major improvments, and window efficientcy. Features ar
 5. <!CONF html> config tag - a way to make an HTML app with custom configurations, and an svg icon.
 6. <!ECHOS html> tag - Opens windows without requesting. Perfect for pop-up windows and startup apps.
 
-###Changes
+### Changes
 WebV2.8x Update to run the new features (WebV2.8x0.3)
 Additional changes to the SB3_UNIX kernel
 Other changes
