@@ -35,8 +35,9 @@ WebV2.8x Update to run the new features (WebV2.8x0.3)
 Additional changes to the SB3_UNIX kernel
 Other changes
 
+---
+
 ## Upcoming Versions
-- **0.3.6** – Bug fixes and major improvements
 - **0.3.7** – Another beta before stabilization
 - [Other 0.3.x versions]
 - **0.4.0** – Stable beta milestone
