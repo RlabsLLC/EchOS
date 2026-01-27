@@ -63,6 +63,8 @@ Planned long-term support editions:
 - **EchOS Full** – Complete experience with all modules  (Coming after BETA Age)
 - **EchOS Free** – Open-source edition (coming soon)  (Coming after EchOS0.4)
 - **EchOS Dev** – Experimental development builds  (???)
+- **EchOS LTS** – Long Term Support Builds (Coming after EchOS0.4)
+- **EchOS_Canary** – Snapshot Builds. Only the latest build will be released to the devs.
 
 ---
 
