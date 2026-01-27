@@ -35,7 +35,7 @@ EchOS 0.3.6_beta includes major improvments, and window efficientcy. Features ar
 - Additional changes to the SB3_UNIX kernel
 - Other changes
 
-##For the Devs
+## For the Devs
 EchOS_Canary Has been opened in a new repository
 
 
