@@ -27,8 +27,8 @@ EchOS 0.3.6_beta includes major improvments, and window efficientcy. Features ar
 2. Simplify - Desktop clutterd? tap the Simplify button to arrange your windows in a breathable way.
 3. Working MK_DIR/RM_DIR & MK_file/RM_file tags - File making/removing JSON strings now work.
 4. Refreshed icons - new icons for the apps
-5. <!CONF html> config tag - a way to make an HTML app with custom configurations, and an svg icon.
-6. <!ECHOS html> tag - Opens windows without requesting. Perfect for pop-up windows and startup apps.
+5. `<!CONF html>` config tag - a way to make an HTML app with custom configurations, and an svg icon.
+6. `<!ECHOS html>` tag - Opens windows without requesting. Perfect for pop-up windows and startup apps.
 
 ### Changes
 - WebV2.8x Update to run the new features (WebV2.8x0.4)
