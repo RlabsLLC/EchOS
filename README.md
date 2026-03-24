@@ -21,7 +21,7 @@ This version includes major improvements and preparation for future releases.
 
 ---
 
-## EchOS 0.3.6_beta in preparations!
+## EchOS 0.3.6_beta in preparations! [Current Build: 14.8.1]
 EchOS 0.3.6_beta includes major improvments, and window efficientcy. Features are:
 1. QuickActions (Beta) - A way to tell your computer to make a folder/file, close a window, and more!
 2. Simplify - Desktop clutterd? tap the Simplify button to arrange your windows in a breathable way.
